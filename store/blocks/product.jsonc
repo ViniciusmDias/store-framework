@@ -73,9 +73,7 @@
     "props": {
       "hideImpossibleCombinations": false,
       "initialSelection": "empty",
-      "visibleVariations": [
-        "color"
-      ],
+      "showValueForVariation": "image",
       "showVariationsErrorMessage": true
     }
   },
