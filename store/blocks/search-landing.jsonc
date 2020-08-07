@@ -15,7 +15,7 @@
     "title": "Blue Top Retro Camera",
     "props": {
       "querySchema": {
-        "query": "Blue Top Retro Camera",
+        "queryField": "Blue Top Retro Camera",
         "orderByField": "OrderByReleaseDateDESC",
         "hideUnavailableItems": true,
         "maxItemsPerPage": 8
