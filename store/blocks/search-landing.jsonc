@@ -12,6 +12,7 @@
     }
   },
   "search-result-layout.customQuery#landing": {
+    "title": "Blue Top Retro Camera",
     "props": {
       "querySchema": {
         "query": "Blue Top Retro Camera",
